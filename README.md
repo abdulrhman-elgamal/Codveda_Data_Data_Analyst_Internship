@@ -23,3 +23,8 @@ An end-to-end portfolio showcasing advanced data analysis, data cleaning, Explor
 - **Environment**: Jupyter Notebook / Google Colab
 
 ---
+## 📊 Interactive Power BI Dashboard Preview
+
+Here is a snapshot of the Power BI executive dashboard tracking key metrics and customer behavior:
+
+![Dashboard Overview](assets/dashboard_overview.png)
