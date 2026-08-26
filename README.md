@@ -28,3 +28,5 @@ An end-to-end portfolio showcasing advanced data analysis, data cleaning, Explor
 Here is a snapshot of the Power BI executive dashboard tracking key metrics and customer behavior:
 
 ![Dashboard Overview](assets/dashboard_overview.png)
+![Dashboard KPIs](assets/dashboard_kpis.png)
+
